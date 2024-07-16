@@ -1,0 +1,7 @@
+model\JsonStandardApiResponse.class
+API\ApiUri.class
+model\SupportedCoins.class
+API\ApiService.class
+model\JsonStandardApiResponseAdapter.class
+principal\Menu.class
+principal\Main.class

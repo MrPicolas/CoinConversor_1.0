@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CoinConversor.iml" filepath="$PROJECT_DIR$/.idea/CoinConversor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coinconversor_1.0.iml" filepath="$PROJECT_DIR$/coinconversor_1.0.iml" />
     </modules>
   </component>
 </project>
